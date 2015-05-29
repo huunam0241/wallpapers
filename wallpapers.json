@@ -1,2 +1,35 @@
-# wallpapers
-Contain wallpapers for my themes
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "huunam0241",
+			"url": "http://i.imgur.com/QF7YLGJ.jpg",
+			"name": "DarkGlow1"
+		},
+		{
+			"author": "huunam0241",
+			"url": "http://i.imgur.com/W4Sm3GY.jpg",
+			"name": "DarkGlow2"
+		},
+		{
+			"author": "huunam0241",
+			"url": "http://i.imgur.com/Kdblyrr.jpg",
+			"name": "DarkGlow3"
+		},
+		{
+			"author": "huunam0241",
+			"url": "http://i.imgur.com/Z6rHpBB.jpg",
+			"name": "DarkGlow4"
+		},
+		{
+			"author": "huunam0241",
+			"url": "http://i.imgur.com/u800EPu.png",
+			"name": "DarkGlow5"
+		},
+		{
+			"author": "huunam0241",
+			"url": "http://i.imgur.com/B4tbP6B.png",
+			"name": "DarkGlow6"
+		}
+	]
+}
