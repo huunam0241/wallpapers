@@ -1,0 +1,30 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "",
+			"url": "http://i.imgur.com/cz9Jsdk.jpg",
+			"name": "flex1"
+		},
+		{
+			"author": "",
+			"url": "http://i.imgur.com/TRMY3CF.jpg",
+			"name": "flex2"
+		},
+		{
+			"author": "",
+			"url": "http://i.imgur.com/4jIB2dr.png",
+			"name": "flex3"
+		},
+		{
+			"author": "",
+			"url": "http://i.imgur.com/Tsofcgg.png",
+			"name": "flex4"
+		},
+		{
+			"author": "",
+			"url": "http://i.imgur.com/e5PyohV.jpg",
+			"name": "flex5"
+		}
+	]
+}
